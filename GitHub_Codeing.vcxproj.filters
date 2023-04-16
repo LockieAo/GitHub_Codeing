@@ -18,5 +18,8 @@
     <ClCompile Include="Binary_Search_Tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Heaps.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
