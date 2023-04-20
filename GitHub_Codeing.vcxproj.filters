@@ -24,5 +24,8 @@
     <ClCompile Include="AVL_Tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="排序算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
