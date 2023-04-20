@@ -406,8 +406,6 @@ void QuickSortCycle(vector<T>& arr, int left, int right, Compare compare = Less<
 }
 
 
-
-
 int main() {
 	vector<int> arr = {5,1,2,1,6,3,87,2,3,87,354,3};
 	//vector<int> arr = { 3,5,2,1};
