@@ -415,6 +415,6 @@ int main() {
 	//SelectSort(arr,Greater<int>());
 	//MergeSort(arr, Greater<int>());
 	//QuickSortRecursion(arr,0,(int)arr.size());
-	QuickSortCycle(arr, 0, (int)arr.size());
+	QuickSortCycle(arr, 0, (int)arr.size(),Greater<int>());
 	Show(arr);
 }
