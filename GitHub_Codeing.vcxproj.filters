@@ -27,5 +27,8 @@
     <ClCompile Include="Sorting_Algorithm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Union_Find_Set.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
