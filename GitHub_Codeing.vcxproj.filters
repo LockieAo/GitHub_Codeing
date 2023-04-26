@@ -27,7 +27,10 @@
     <ClCompile Include="Sorting_Algorithm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Union_Find_Set.cpp">
+    <ClCompile Include="Union_Find_Set.hpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

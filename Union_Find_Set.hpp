@@ -69,6 +69,11 @@ public:
 		return true;
 	}
 
+	//判断两个元素是否在同一个集合
+	bool Inset(int x1,int x2) {
+		return FindRoot(x1) == FindRoot(x2);
+	}
+
 	//打印
 	void Print() {
 		for (int i = 0; i < _arr.size(); i++) {
@@ -78,7 +83,7 @@ public:
 	}
 };
 
-
+/*
 
 int main() {
 	UnionFindSet<int> ufs(10,-1);
@@ -107,3 +112,4 @@ int main() {
 
 	ufs.Print();
 }
+*/
