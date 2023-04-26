@@ -13,6 +13,7 @@ public:
 	{}
 
 	//根据元素所在位置的下标，查找元素所在集合的根结点（查完之后进行路径压缩）
+
 	int FindRoot(int index) {
 		int root = index;
 		//获取该下标所在集合的根结点
